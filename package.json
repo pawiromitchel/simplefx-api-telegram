@@ -1,0 +1,17 @@
+{
+  "name": "simplefx-api-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cv-message-to-order.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "node-cron": "^2.0.3",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
