@@ -1,7 +1,6 @@
 const axios = require('axios');
-const ACCOUNT_NUMBER = 604254;
 const CONFIG = require("./config");
-const REALITY = "DEMO"; // DEMO or LIVE
+const REALITY = CONFIG.REALITY;
 let AUTH_TOKEN = "";
 let headers;
 
